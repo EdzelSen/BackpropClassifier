@@ -5,7 +5,7 @@ Only the provided classes are used for the network: `INeuron`, `HNeuron`, `ONeur
 
 ## Data description
 - Dataset: Iris (data/iris.csv) - 150 rows, 4 numeric features (sepal/petal length and width), 3 classes.
-- Last CSV column is the class label. (Replace with your own dataset and describe it here.)
+- Last CSV column is the class label.
 
 ## How to run
 1. Open the project in Visual Studio 2022 (.NET 8, Windows Forms).
