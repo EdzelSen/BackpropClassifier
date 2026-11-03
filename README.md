@@ -25,12 +25,5 @@ Only the provided classes are used for the network: `INeuron`, `HNeuron`, `ONeur
 ## Change to the provided engine
 `LRPOUT` and `LRPIN` in `BackNeural.cs` changed from `private const` to `public` fields so learning rates can be tuned at runtime. No other engine logic was changed.
 
-## Hyperparameter tuning (fill in from your grid results)
-| Hidden | LR | Epochs | Train MSE | Test MSE | Test Acc |
-|---|---|---|---|---|---|
-| | | | | | |
-
-Explain which configuration you chose and why (convergence speed, overfitting, stability).
-
 ## Results / analysis
 (Add your final accuracy, confusion matrix, and which classes are confused.)
